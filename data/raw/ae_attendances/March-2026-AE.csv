@@ -1,0 +1,200 @@
+Code,Region,Name,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total attendances,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances < 4 hours,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances > 4 hours,Percentage in 4 hours or less (all),Percentage in 4 hours or less (type 1),Percentage in 4 hours or less (type 2),Percentage in 4 hours or less (type 3),Emergency Admissions via Type 1 A&E,Emergency Admissions via Type 2 A&E,Emergency Admissions via Type 3 and 4 A&E,Total Emergency Admissions via A&E,Other Emergency admissions (i.e not via A&E),Total Emergency Admissions,Number of patients spending >4 hours from decision to admit to admission,Number of patients spending >12 hours from decision to admit to admission
+RC9,NHS England East Of England ,Bedfordshire Hospitals NHS Foundation Trust,"17,712",0,"9,389","27,101","12,286",0,"9,389","21,675","5,426",0,0,"5,426",80.00%,69.40%,-,100.00%,"5,351",0,0,"5,351","2,484","7,835",95,15
+RGT,NHS England East Of England ,Cambridge University Hospitals NHS Foundation Trust,"12,038",0,"5,929","17,967","7,034",0,"5,810","12,844","5,004",0,119,"5,123",71.50%,58.40%,-,98.00%,"2,987",0,36,"3,023",452,"3,475",962,404
+RWH,NHS England East Of England ,East And North Hertfordshire Teaching NHS Trust,"9,208",0,"9,068","18,276","4,686",0,"8,971","13,657","4,522",0,97,"4,619",74.70%,50.90%,-,98.90%,"2,396",0,2,"2,398",283,"2,681",370,65
+RDE,NHS England East Of England ,East Suffolk And North Essex NHS Foundation Trust,"11,646",0,"13,538","25,184","6,626",0,"12,694","19,320","5,020",0,844,"5,864",76.70%,56.90%,-,93.80%,"5,276",0,1,"5,277",294,"5,571","1,431",548
+RY4,NHS England East Of England ,Hertfordshire Community NHS Trust,0,0,"1,223","1,223",0,0,"1,185","1,185",0,0,38,38,96.90%,-,-,96.90%,0,0,0,0,0,0,0,0
+DT301,NHS England East Of England ,Herts Urgent Care (Ascots Lane),0,0,"2,144","2,144",0,0,"2,034","2,034",0,0,110,110,94.90%,-,-,94.90%,0,0,0,0,0,0,0,0
+RGP,NHS England East Of England ,James Paget University Hospitals NHS Foundation Trust,"7,717",0,"1,655","9,372","5,039",0,"1,655","6,694","2,678",0,0,"2,678",71.40%,65.30%,-,100.00%,"1,586",0,0,"1,586",530,"2,116",906,427
+RAJ,NHS England East Of England ,Mid And South Essex NHS Foundation Trust,"28,524",0,"8,415","36,939","17,065",0,"8,072","25,137","11,459",0,343,"11,802",68.10%,59.80%,-,95.90%,"8,908",0,125,"9,033","1,270","10,303","3,130",793
+RD8,NHS England East Of England ,Milton Keynes University Hospital NHS Foundation Trust,"9,104",0,"5,943","15,047","6,089",0,"5,850","11,939","3,015",0,93,"3,108",79.30%,66.90%,-,98.40%,"2,603",0,0,"2,603",454,"3,057",603,0
+RM1,NHS England East Of England ,Norfolk And Norwich University Hospitals NHS Foundation Trust,"13,490",0,"7,873","21,363","9,864",0,"7,862","17,726","3,626",0,11,"3,637",83.00%,73.10%,-,99.90%,"2,256",0,0,"2,256","1,575","3,831",864,261
+RGN,NHS England East Of England ,North West Anglia NHS Foundation Trust,"16,126",0,"5,499","21,625","10,304",0,"5,304","15,608","5,822",0,195,"6,017",72.20%,63.90%,-,96.50%,"4,176",0,43,"4,219","1,427","5,646","1,348",945
+Y02428,NHS England East Of England ,Putnoe Walk In Centre,0,0,"2,867","2,867",0,0,"2,867","2,867",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RQW,NHS England East Of England ,The Princess Alexandra Hospital NHS Trust,"8,912",0,"2,755","11,667","6,542",0,"2,755","9,297","2,370",0,0,"2,370",79.70%,73.40%,-,100.00%,"1,839",0,1,"1,840",390,"2,230",654,177
+RCX,NHS England East Of England ,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","7,041",0,"2,045","9,086","4,068",0,"2,045","6,113","2,973",0,0,"2,973",67.30%,57.80%,-,100.00%,"1,921",0,0,"1,921",398,"2,319",274,108
+RWG,NHS England East Of England ,West Hertfordshire Teaching Hospitals NHS Trust,"8,750",0,"8,781","17,531","7,166",0,"8,675","15,841","1,584",0,106,"1,690",90.40%,81.90%,-,98.80%,"4,912",0,0,"4,912",720,"5,632",689,33
+RGR,NHS England East Of England ,West Suffolk NHS Foundation Trust,"8,171",0,"1,068","9,239","6,160",0,"1,068","7,228","2,011",0,0,"2,011",78.20%,75.40%,-,100.00%,"1,929",0,0,"1,929",356,"2,285",799,329
+G0Q0L,NHS England London,Barking Hospital Utc,0,0,"3,069","3,069",0,0,"3,052","3,052",0,0,17,17,99.40%,-,-,99.40%,0,0,0,0,0,0,0,0
+RF4,NHS England London,"Barking, Havering And Redbridge University Hospitals NHS Trust","13,844","2,485","14,885","31,214","7,744","2,072","14,632","24,448","6,100",413,253,"6,766",78.30%,55.90%,83.40%,98.30%,"3,749",0,0,"3,749","2,137","5,886","1,217",608
+R1H,NHS England London,Barts Health NHS Trust,"26,064",950,"18,544","45,558","15,988",944,"17,625","34,557","10,076",6,919,"11,001",75.90%,61.30%,99.40%,95.00%,"4,449",1,35,"4,485","1,390","5,875","2,217","1,207"
+AD913,NHS England London,Beckenham Beacon Ucc,0,0,"3,896","3,896",0,0,"3,875","3,875",0,0,21,21,99.50%,-,-,99.50%,0,0,0,0,0,0,0,0
+RYX,NHS England London,Central London Community Healthcare NHS Trust,0,0,"13,234","13,234",0,0,"13,020","13,020",0,0,214,214,98.40%,-,-,98.40%,0,0,0,0,0,0,0,0
+RQM,NHS England London,Chelsea And Westminster Hospital NHS Foundation Trust,"21,170",0,"6,841","28,011","15,618",0,"6,531","22,149","5,552",0,310,"5,862",79.10%,73.80%,-,95.50%,"2,925",0,0,"2,925",462,"3,387",798,45
+RJ6,NHS England London,Croydon Health Services NHS Trust,"13,405",0,"5,222","18,627","9,564",0,"5,222","14,786","3,841",0,0,"3,841",79.40%,71.30%,-,100.00%,"1,120",0,0,"1,120",174,"1,294",970,678
+RVR,NHS England London,Epsom And St Helier University Hospitals NHS Trust,"11,779",0,"2,267","14,046","8,480",0,"2,067","10,547","3,299",0,200,"3,499",75.10%,72.00%,-,91.20%,"2,137",0,0,"2,137",154,"2,291","1,366",764
+RJ1,NHS England London,Guy's And St Thomas' NHS Foundation Trust,"10,703",0,"7,039","17,742","6,417",0,"6,781","13,198","4,286",0,258,"4,544",74.40%,60.00%,-,96.30%,"2,105",0,0,"2,105",267,"2,372",206,69
+K6K0R,NHS England London,Harold Wood Polyclinic Utc,0,0,"2,878","2,878",0,0,"2,857","2,857",0,0,21,21,99.30%,-,-,99.30%,0,0,0,0,0,0,0,0
+RQX,NHS England London,Homerton Healthcare NHS Foundation Trust,"11,459",0,0,"11,459","9,751",0,0,"9,751","1,708",0,0,"1,708",85.10%,85.10%,-,-,"1,966",0,0,"1,966",390,"2,356",222,22
+RYJ,NHS England London,Imperial College Healthcare NHS Trust,"12,422","3,904","7,469","23,795","7,984","3,865","7,211","19,060","4,438",39,258,"4,735",80.10%,64.30%,99.00%,96.50%,"3,732",0,0,"3,732","1,236","4,968",580,0
+RJZ,NHS England London,King's College Hospital NHS Foundation Trust,"16,215",0,"10,418","26,633","9,769",0,"9,443","19,212","6,446",0,975,"7,421",72.10%,60.20%,-,90.60%,"3,623",0,0,"3,623",321,"3,944","2,166",661
+RAX,NHS England London,Kingston And Richmond NHS Foundation Trust,"7,582",0,"8,517","16,099","4,286",0,"8,280","12,566","3,296",0,237,"3,533",78.10%,56.50%,-,97.20%,"3,197",0,207,"3,404",699,"4,103",683,310
+RJ2,NHS England London,Lewisham And Greenwich NHS Trust,"16,974",0,"18,432","35,406","8,746",0,"18,105","26,851","8,228",0,327,"8,555",75.80%,51.50%,-,98.20%,"3,998",0,0,"3,998",538,"4,536","1,544",487
+R1K,NHS England London,London North West University Healthcare NHS Trust,"13,819",0,"15,806","29,625","9,223",0,"15,724","24,947","4,596",0,82,"4,678",84.20%,66.70%,-,99.50%,"7,227",0,0,"7,227",199,"7,426",933,408
+RP6,NHS England London,Moorfields Eye Hospital NHS Foundation Trust,0,"6,316",0,"6,316",0,"6,158",0,"6,158",0,158,0,158,97.50%,-,97.50%,-,0,1,0,1,270,271,0,0
+RAT,NHS England London,North East London NHS Foundation Trust,0,0,"1,896","1,896",0,0,"1,841","1,841",0,0,55,55,97.10%,-,-,97.10%,0,0,0,0,0,0,0,0
+RAL,NHS England London,Royal Free London NHS Foundation Trust,"27,192",571,"16,798","44,561","19,322",559,"16,060","35,941","7,870",12,738,"8,620",80.70%,71.10%,97.90%,95.60%,"6,479",2,141,"6,622",823,"7,445","2,683","1,771"
+RAN,NHS England London,Royal National Orthopaedic Hospital NHS Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,0,0,7,7,0,0
+RJ7,NHS England London,St George's University Hospitals NHS Foundation Trust,"9,057",0,"4,237","13,294","6,305",0,"4,092","10,397","2,752",0,145,"2,897",78.20%,69.60%,-,96.60%,"1,843",0,0,"1,843",578,"2,421",950,476
+RAS,NHS England London,The Hillingdon Hospitals NHS Foundation Trust,"5,375",0,"6,912","12,287","3,098",0,"6,830","9,928","2,277",0,82,"2,359",80.80%,57.60%,-,98.80%,"1,810",0,0,"1,810",72,"1,882",407,14
+Y03218,NHS England London,The Pinn Unregistered Wic,0,0,"1,094","1,094",0,0,"1,094","1,094",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RRV,NHS England London,University College London Hospitals NHS Foundation Trust,"14,539",0,0,"14,539","11,756",0,0,"11,756","2,783",0,0,"2,783",80.90%,80.90%,-,-,"1,512",0,0,"1,512",350,"1,862",365,66
+RKE,NHS England London,Whittington Health NHS Trust,"9,319",0,0,"9,319","6,943",0,0,"6,943","2,376",0,0,"2,376",74.50%,74.50%,-,-,"1,412",0,0,"1,412",42,"1,454",517,237
+NL7,NHS England Midlands ,Assura Vertis Urgent Care Centres (Birmingham),0,0,"3,415","3,415",0,0,"3,415","3,415",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+8J094,NHS England Midlands ,Badger Ltd,0,0,"2,444","2,444",0,0,"2,444","2,444",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RQ3,NHS England Midlands ,Birmingham Women's And Children's NHS Foundation Trust,"5,150",0,0,"5,150","3,944",0,0,"3,944","1,206",0,0,"1,206",76.60%,76.60%,-,-,651,0,0,651,202,853,31,2
+RFS,NHS England Midlands ,Chesterfield Royal Hospital NHS Foundation Trust,"7,179",0,"5,672","12,851","3,945",0,"5,588","9,533","3,234",0,84,"3,318",74.20%,55.00%,-,98.50%,"2,191",0,15,"2,206",180,"2,386",616,82
+RYG,NHS England Midlands ,Coventry And Warwickshire Partnership NHS Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,9,9,35,44,0,0
+RY8,NHS England Midlands ,Derbyshire Community Health Services NHS Foundation Trust,0,0,"9,044","9,044",0,0,"8,524","8,524",0,0,520,520,94.30%,-,-,94.30%,0,0,0,0,0,0,0,0
+NNJ,NHS England Midlands ,Dhu Health Care C.I.C,0,0,"1,999","1,999",0,0,"1,999","1,999",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+NNJ10,NHS England Midlands ,Enderby Leisure Centre,0,0,493,493,0,0,492,492,0,0,1,1,99.80%,-,-,99.80%,0,0,0,0,0,0,0,0
+Y03007,NHS England Midlands ,Erdington GP Health & Wellbeing Wic,0,0,"1,759","1,759",0,0,"1,759","1,759",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RLT,NHS England Midlands ,George Eliot Hospital NHS Trust,"7,478",0,"1,767","9,245","6,644",0,"1,765","8,409",834,0,2,836,91.00%,88.80%,-,99.90%,"1,265",0,0,"1,265",0,"1,265",251,92
+RNQ,NHS England Midlands ,Kettering General Hospital NHS Foundation Trust,"11,623",0,"9,434","21,057","7,460",0,"9,427","16,887","4,163",0,7,"4,170",80.20%,64.20%,-,99.90%,"2,022",0,0,"2,022",287,"2,309","1,209",560
+C82038,NHS England Midlands ,Latham House Medical Practice,0,0,379,379,0,0,379,379,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RY5,NHS England Midlands ,Lincolnshire Community Health Services NHS Trust,0,0,"8,730","8,730",0,0,"8,574","8,574",0,0,156,156,98.20%,-,-,98.20%,0,0,0,0,0,0,0,0
+NNJ0H,NHS England Midlands ,Llr Ea - The Merlyn Vaz Health & Social Care Centre,0,0,"2,739","2,739",0,0,"2,731","2,731",0,0,8,8,99.70%,-,-,99.70%,0,0,0,0,0,0,0,0
+NNJ07,NHS England Midlands ,Loughborough Urgent Care Centre,0,0,"7,885","7,885",0,0,"7,835","7,835",0,0,50,50,99.40%,-,-,99.40%,0,0,0,0,0,0,0,0
+NNJ11,NHS England Midlands ,Lutterworth Hospital,0,0,299,299,0,0,299,299,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+NNJ12,NHS England Midlands ,Market Harborough,0,0,488,488,0,0,488,488,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+C82009,NHS England Midlands ,Market Harborough Med.Ctr,0,0,243,243,0,0,243,243,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+NNJ13,NHS England Midlands ,Melton Mowbray,0,0,400,400,0,0,400,400,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RNS,NHS England Midlands ,Northampton General Hospital NHS Trust,"11,112",660,"2,110","13,882","7,659",647,"2,108","10,414","3,453",13,2,"3,468",75.00%,68.90%,98.00%,99.90%,"2,621",0,0,"2,621",509,"3,130","1,197",767
+RX1,NHS England Midlands ,Nottingham University Hospitals NHS Trust,"13,228","2,003","10,175","25,406","5,906","1,829","8,979","16,714","7,322",174,"1,196","8,692",65.80%,44.60%,91.30%,88.20%,"2,820",0,"1,987","4,807","4,332","9,139","1,314","1,200"
+NNJ14,NHS England Midlands ,Oadby,0,0,"3,115","3,115",0,0,"3,085","3,085",0,0,30,30,99.00%,-,-,99.00%,0,0,0,0,0,0,0,0
+NNJ15,NHS England Midlands ,Oakham,0,0,774,774,0,0,774,774,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RXK,NHS England Midlands ,Sandwell And West Birmingham Hospitals NHS Trust,"11,950","1,179","8,388","21,517","6,829","1,019","8,346","16,194","5,121",160,42,"5,323",75.30%,57.10%,86.40%,99.50%,"2,586",0,45,"2,631",57,"2,688","1,290",612
+RK5,NHS England Midlands ,Sherwood Forest Hospitals NHS Foundation Trust,"11,782",0,"5,785","17,567","8,234",0,"5,390","13,624","3,548",0,395,"3,943",77.60%,69.90%,-,93.20%,"3,787",0,0,"3,787",280,"4,067","1,005",277
+R1D,NHS England Midlands ,Shropshire Community Health NHS Trust,0,0,"3,203","3,203",0,0,"3,191","3,191",0,0,12,12,99.60%,-,-,99.60%,0,0,0,0,0,0,0,0
+C83023,NHS England Midlands ,Sleaford Medical Group,0,0,512,512,0,0,512,512,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,5,5,0,0
+Y02615,NHS England Midlands ,South Birmingham GP Walk In Centre,0,0,"3,836","3,836",0,0,"3,836","3,836",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RJC,NHS England Midlands ,South Warwickshire University NHS Foundation Trust,"8,646",0,438,"9,084","6,838",0,438,"7,276","1,808",0,0,"1,808",80.10%,79.10%,-,100.00%,"1,815",0,0,"1,815",663,"2,478",555,132
+NQTE4,NHS England Midlands ,Summerfield Urgent Care Centre,0,0,"3,046","3,046",0,0,"3,046","3,046",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RNA,NHS England Midlands ,The Dudley Group NHS Foundation Trust,"10,359",0,"4,879","15,238","8,295",0,"4,720","13,015","2,064",0,159,"2,223",85.40%,80.10%,-,96.70%,"3,662",0,0,"3,662","2,769","6,431",997,40
+RL1,NHS England Midlands ,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,0,0,29,29,0,0
+RL4,NHS England Midlands ,The Royal Wolverhampton NHS Trust,"11,512","1,741","8,069","21,322","7,495","1,707","7,799","17,001","4,017",34,270,"4,321",79.70%,65.10%,98.00%,96.70%,"3,064",0,59,"3,123","3,984","7,107","1,433",604
+RXW,NHS England Midlands ,The Shrewsbury And Telford Hospital NHS Trust,"11,446",0,"2,637","14,083","5,165",0,"2,267","7,432","6,281",0,370,"6,651",52.80%,45.10%,-,86.00%,"3,693",0,145,"3,838","2,258","6,096","1,915","1,173"
+RWD,NHS England Midlands ,United Lincolnshire Teaching Hospitals NHS Trust,"18,625",0,"4,910","23,535","12,898",0,"4,652","17,550","5,727",0,258,"5,985",74.60%,69.30%,-,94.70%,"5,141",0,0,"5,141","1,011","6,152","1,889","1,132"
+RRK,NHS England Midlands ,University Hospitals Birmingham NHS Foundation Trust,"34,602",423,"3,354","38,379","20,942",423,"3,328","24,693","13,660",0,26,"13,686",64.30%,60.50%,100.00%,99.20%,"10,755",0,0,"10,755","7,641","18,396","4,394","1,511"
+RKB,NHS England Midlands ,University Hospitals Coventry And Warwickshire NHS Trust,"13,287","2,667","6,422","22,376","8,264","2,574","6,243","17,081","5,023",93,179,"5,295",76.30%,62.20%,96.50%,97.20%,958,40,41,"1,039",342,"1,381",60,11
+RTG,NHS England Midlands ,University Hospitals Of Derby And Burton NHS Foundation Trust,"22,252",0,"9,894","32,146","12,822",0,"9,890","22,712","9,430",0,4,"9,434",70.70%,57.60%,-,100.00%,"4,115",0,1,"4,116","2,034","6,150","1,680",455
+RWE,NHS England Midlands ,University Hospitals Of Leicester NHS Trust,"23,461","2,096",0,"25,557","14,971","2,004",0,"16,975","8,490",92,0,"8,582",66.40%,63.80%,95.60%,-,"7,237",7,0,"7,244","3,922","11,166","1,917",592
+RJE,NHS England Midlands ,University Hospitals Of North Midlands NHS Trust,"15,949",509,"9,210","25,668","7,467",509,"9,080","17,056","8,482",0,130,"8,612",66.40%,46.80%,100.00%,98.60%,"4,933",0,0,"4,933","1,081","6,014","2,028",820
+RBK,NHS England Midlands ,Walsall Healthcare NHS Trust,"9,831",0,"4,614","14,445","7,999",0,"4,523","12,522","1,832",0,91,"1,923",86.70%,81.40%,-,98.00%,"4,661",0,0,"4,661",910,"5,571",826,106
+RWP,NHS England Midlands ,Worcestershire Acute Hospitals NHS Trust,"14,334",0,"6,163","20,497","8,529",0,"6,116","14,645","5,805",0,47,"5,852",71.40%,59.50%,-,99.20%,"3,232",0,0,"3,232",916,"4,148","1,676",835
+RLQ,NHS England Midlands ,Wye Valley NHS Trust,"6,233","1,032",160,"7,425","3,536","1,032",160,"4,728","2,697",0,0,"2,697",63.70%,56.70%,100.00%,100.00%,"1,415",0,0,"1,415",152,"1,567",731,234
+RCF,NHS England North East And Yorkshire ,Airedale NHS Foundation Trust,"6,283",243,0,"6,526","4,223",243,0,"4,466","2,060",0,0,"2,060",68.40%,67.20%,100.00%,-,"1,428",0,0,"1,428",549,"1,977",841,428
+RFF,NHS England North East And Yorkshire ,Barnsley Hospital NHS Foundation Trust,"9,461",0,0,"9,461","7,618",0,0,"7,618","1,843",0,0,"1,843",80.50%,80.50%,-,-,"3,372",0,0,"3,372",552,"3,924",283,0
+RAE,NHS England North East And Yorkshire ,Bradford Teaching Hospitals NHS Foundation Trust,"9,453","1,075","3,238","13,766","7,105","1,075","3,237","11,417","2,348",0,1,"2,349",82.90%,75.20%,100.00%,100.00%,"2,609",0,18,"2,627","1,380","4,007",728,85
+NNF09,NHS England North East And Yorkshire ,Bransholme Health Centre,0,0,"3,817","3,817",0,0,"3,518","3,518",0,0,299,299,92.20%,-,-,92.20%,0,0,0,0,0,0,0,0
+NNF16,NHS England North East And Yorkshire ,Bridlington Hospital,0,0,"1,610","1,610",0,0,"1,584","1,584",0,0,26,26,98.40%,-,-,98.40%,0,0,0,0,0,0,0,0
+RWY,NHS England North East And Yorkshire ,Calderdale And Huddersfield NHS Foundation Trust,"16,023",0,0,"16,023","14,066",0,0,"14,066","1,957",0,0,"1,957",87.80%,87.80%,-,-,"3,004",0,0,"3,004",227,"3,231",842,34
+RXP,NHS England North East And Yorkshire ,County Durham And Darlington NHS Foundation Trust,"13,246",0,"11,322","24,568","8,116",0,"11,322","19,438","5,130",0,0,"5,130",79.10%,61.30%,-,100.00%,"4,534",0,0,"4,534",847,"5,381","1,528",10
+RP5,NHS England North East And Yorkshire ,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,"14,337",0,"4,376","18,713","10,123",0,"4,371","14,494","4,214",0,5,"4,219",77.50%,70.60%,-,99.90%,"4,077",0,495,"4,572","1,178","5,750","1,105",95
+NNF94,NHS England North East And Yorkshire ,East Riding Community Hospital,0,0,"2,708","2,708",0,0,"2,581","2,581",0,0,127,127,95.30%,-,-,95.30%,0,0,0,0,0,0,0,0
+RR7,NHS England North East And Yorkshire ,Gateshead Health NHS Foundation Trust,"6,030",0,"4,693","10,723","3,417",0,"4,637","8,054","2,613",0,56,"2,669",75.10%,56.70%,-,98.80%,"1,816",0,0,"1,816",72,"1,888",778,2
+NNFA7,NHS England North East And Yorkshire ,Goole & District Hospital,0,0,"1,665","1,665",0,0,"1,631","1,631",0,0,34,34,98.00%,-,-,98.00%,0,0,0,0,0,0,0,0
+RCD,NHS England North East And Yorkshire ,Harrogate And District NHS Foundation Trust,"5,508",0,"1,619","7,127","4,003",0,"1,613","5,616","1,505",0,6,"1,511",78.80%,72.70%,-,99.60%,"1,147",0,0,"1,147",310,"1,457",298,10
+RWA,NHS England North East And Yorkshire ,Hull University Teaching Hospitals NHS Trust,"10,114",0,"4,397","14,511","5,129",0,"4,161","9,290","4,985",0,236,"5,221",64.00%,50.70%,-,94.60%,"4,018",0,0,"4,018","2,139","6,157","1,429",375
+RV9,NHS England North East And Yorkshire ,Humber Teaching NHS Foundation Trust,0,0,"1,284","1,284",0,0,"1,279","1,279",0,0,5,5,99.60%,-,-,99.60%,0,0,0,0,0,0,0,0
+RR8,NHS England North East And Yorkshire ,Leeds Teaching Hospitals NHS Trust,"18,953",791,"11,623","31,367","12,416",791,"11,442","24,649","6,537",0,181,"6,718",78.60%,65.50%,100.00%,98.40%,"3,760",0,0,"3,760","1,354","5,114","2,082",564
+ARN03,NHS England North East And Yorkshire ,Local Care Direct,0,0,"2,684","2,684",0,0,"2,675","2,675",0,0,9,9,99.70%,-,-,99.70%,0,0,0,0,0,0,0,0
+RXF,NHS England North East And Yorkshire ,Mid Yorkshire Teaching NHS Trust,"16,759",126,"6,945","23,830","10,819",126,"6,766","17,711","5,940",0,179,"6,119",74.30%,64.60%,100.00%,97.40%,"3,451",0,174,"3,625",901,"4,526","2,393",308
+RNN,NHS England North East And Yorkshire ,North Cumbria Integrated Care NHS Foundation Trust,"9,411",0,"1,761","11,172","5,332",0,"1,664","6,996","4,079",0,97,"4,176",62.60%,56.70%,-,94.50%,"2,080",0,0,"2,080",490,"2,570",909,346
+RVW,NHS England North East And Yorkshire ,North Tees And Hartlepool NHS Foundation Trust,"5,064",0,"12,066","17,130","2,725",0,"12,040","14,765","2,339",0,26,"2,365",86.20%,53.80%,-,99.80%,"1,758",0,472,"2,230","2,543","4,773",101,1
+RJL,NHS England North East And Yorkshire ,Northern Lincolnshire And Goole NHS Foundation Trust,"10,855",0,"7,075","17,930","5,954",0,"6,996","12,950","4,901",0,79,"4,980",72.20%,54.90%,-,98.90%,"5,761",0,0,"5,761",476,"6,237","1,449",715
+RTF,NHS England North East And Yorkshire ,Northumbria Healthcare NHS Foundation Trust,"11,038",0,"14,245","25,283","8,800",0,"14,244","23,044","2,238",0,1,"2,239",91.10%,79.70%,-,100.00%,"4,560",0,5,"4,565",540,"5,105",12,0
+RCU,NHS England North East And Yorkshire ,Sheffield Children's NHS Foundation Trust,"4,939",0,555,"5,494","4,833",0,554,"5,387",106,0,1,107,98.10%,97.90%,-,99.80%,"1,204",0,0,"1,204",93,"1,297",8,0
+RHQ,NHS England North East And Yorkshire ,Sheffield Teaching Hospitals NHS Foundation Trust,"9,241","1,360","8,822","19,423","4,871","1,341","8,516","14,728","4,370",19,306,"4,695",75.80%,52.70%,98.60%,96.50%,"3,206",0,0,"3,206","3,321","6,527",905,10
+RTR,NHS England North East And Yorkshire ,South Tees Hospitals NHS Foundation Trust,"7,762",0,"12,151","19,913","4,238",0,"11,701","15,939","3,524",0,450,"3,974",80.00%,54.60%,-,96.30%,"2,348",0,417,"2,765","2,765","5,530",311,6
+R0B,NHS England North East And Yorkshire ,South Tyneside And Sunderland NHS Foundation Trust,"12,493","1,400","7,492","21,385","8,060","1,381","7,327","16,768","4,433",19,165,"4,617",78.40%,64.50%,98.60%,97.80%,"4,956",25,0,"4,981","1,241","6,222",174,0
+RXG,NHS England North East And Yorkshire ,South West Yorkshire Partnership NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,0,0,138,138,0,0
+RTD,NHS England North East And Yorkshire ,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"11,211","1,872","11,049","24,132","6,549","1,782","10,931","19,262","4,662",90,118,"4,870",79.80%,58.40%,95.20%,98.90%,"3,947",20,0,"3,967","3,074","7,041",304,11
+RFR,NHS England North East And Yorkshire ,The Rotherham NHS Foundation Trust,"9,778",0,0,"9,778","6,752",0,0,"6,752","3,026",0,0,"3,026",69.10%,69.10%,-,-,"1,668",0,0,"1,668",550,"2,218",781,40
+AJN,NHS England North East And Yorkshire ,Workington Health Limited,0,0,435,435,0,0,435,435,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RCB,NHS England North East And Yorkshire ,York And Scarborough Teaching Hospitals NHS Foundation Trust,"12,231",350,"7,237","19,818","6,935",350,"6,781","14,066","5,296",0,456,"5,752",71.00%,56.70%,100.00%,93.70%,"5,495",0,0,"5,495","1,812","7,307",930,237
+RBS,NHS England North West ,Alder Hey Children's NHS Foundation Trust,"6,640",0,0,"6,640","5,543",0,0,"5,543","1,097",0,0,"1,097",83.50%,83.50%,-,-,952,0,0,952,240,"1,192",0,0
+RXL,NHS England North West ,Blackpool Teaching Hospitals NHS Foundation Trust,"8,713",0,"10,670","19,383","5,607",0,"10,430","16,037","3,106",0,240,"3,346",82.70%,64.40%,-,97.80%,"1,886",0,0,"1,886","2,343","4,229",779,261
+RMC,NHS England North West ,Bolton NHS Foundation Trust,"8,667",0,"3,573","12,240","4,896",0,"3,440","8,336","3,771",0,133,"3,904",68.10%,56.50%,-,96.30%,"2,741",0,180,"2,921",906,"3,827",955,374
+RY2,NHS England North West ,Bridgewater Community Healthcare NHS Foundation Trust,0,0,"3,487","3,487",0,0,"3,422","3,422",0,0,65,65,98.10%,-,-,98.10%,0,0,0,0,0,0,0,0
+RJR,NHS England North West ,Countess Of Chester Hospital NHS Foundation Trust,"5,416",0,"2,673","8,089","2,657",0,"2,276","4,933","2,759",0,397,"3,156",61.00%,49.10%,-,85.10%,"1,846",0,0,"1,846","1,276","3,122","1,066",778
+RJN,NHS England North West ,East Cheshire NHS Trust,"4,437",0,66,"4,503","2,222",0,66,"2,288","2,215",0,0,"2,215",50.80%,50.10%,-,100.00%,822,0,0,822,194,"1,016",634,388
+RXR,NHS England North West ,East Lancashire Hospitals NHS Trust,"13,923",0,"11,422","25,345","9,655",0,"10,958","20,613","4,268",0,464,"4,732",81.30%,69.30%,-,95.90%,"4,296",0,73,"4,369","1,740","6,109","1,506",977
+RXN,NHS England North West ,Lancashire Teaching Hospitals NHS Foundation Trust,"12,251",0,"3,379","15,630","8,115",0,"3,167","11,282","4,136",0,212,"4,348",72.20%,66.20%,-,93.70%,"3,039",0,95,"3,134","1,249","4,383","1,421",368
+RBQ,NHS England North West ,Liverpool Heart And Chest Hospital NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,0,0,126,126,0,0
+REM,NHS England North West ,Liverpool University Hospitals NHS Foundation Trust,"16,846","1,989","8,390","27,225","9,151","1,989","7,929","19,069","7,695",0,461,"8,156",70.00%,54.30%,100.00%,94.50%,"5,691",0,0,"5,691","2,455","8,146","2,047","1,124"
+REP,NHS England North West ,Liverpool Women's NHS Foundation Trust,0,"1,589",0,"1,589",0,"1,388",0,"1,388",0,201,0,201,87.40%,-,87.40%,-,0,122,0,122,16,138,0,0
+R0A,NHS England North West ,Manchester University NHS Foundation Trust,"30,624","3,891","12,350","46,865","20,359","3,753","12,048","36,160","10,265",138,302,"10,705",77.20%,66.50%,96.50%,97.60%,"6,105",168,109,"6,382",454,"6,836","2,996",53
+RBN,NHS England North West ,Mersey And West Lancashire Teaching Hospitals NHS Trust,"18,272",0,"7,402","25,674","11,832",0,"7,354","19,186","6,440",0,48,"6,488",74.70%,64.80%,-,99.40%,"8,027",0,0,"8,027",679,"8,706",973,514
+RW4,NHS England North West ,Mersey Care NHS Foundation Trust,0,0,"14,145","14,145",0,0,"13,650","13,650",0,0,495,495,96.50%,-,-,96.50%,0,0,0,0,35,35,0,0
+RBT,NHS England North West ,Mid Cheshire Hospitals NHS Foundation Trust,"7,509",0,"3,347","10,856","3,563",0,"3,339","6,902","3,946",0,8,"3,954",63.60%,47.40%,-,99.80%,"2,422",0,0,"2,422",788,"3,210","1,067",665
+Y02532,NHS England North West ,Miriam Minor Emergency,0,0,"1,652","1,652",0,0,"1,652","1,652",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RM3,NHS England North West ,Northern Care Alliance NHS Foundation Trust,"27,062",0,"9,249","36,311","17,658",0,"9,070","26,728","9,404",0,179,"9,583",73.60%,65.30%,-,98.10%,"7,986",0,345,"8,331","2,441","10,772","2,056","1,124"
+NV693,NHS England North West ,Rossendale Miu & Ooh,0,0,951,951,0,0,951,951,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+NQT5F,NHS England North West ,Skelmersdale Walk In Centre,0,0,"1,696","1,696",0,0,"1,680","1,680",0,0,16,16,99.10%,-,-,99.10%,0,0,0,0,0,0,0,0
+RWJ,NHS England North West ,Stockport NHS Foundation Trust,"8,422",0,"2,490","10,912","5,225",0,"2,429","7,654","3,197",0,61,"3,258",70.10%,62.00%,-,97.60%,"2,639",0,72,"2,711",952,"3,663",850,258
+RMP,NHS England North West ,Tameside And Glossop Integrated Care NHS Foundation Trust,"9,030",0,"2,882","11,912","5,424",0,"2,780","8,204","3,606",0,102,"3,708",68.90%,60.10%,-,96.50%,"1,747",0,0,"1,747",294,"2,041",669,269
+RBV,NHS England North West ,The Christie NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,0,0,829,829,0,0
+RET,NHS England North West ,The Walton Centre NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,0,0,180,180,0,0
+RTX,NHS England North West ,University Hospitals Of Morecambe Bay NHS Foundation Trust,"8,849",0,"4,703","13,552","5,020",0,"4,509","9,529","3,829",0,194,"4,023",70.30%,56.70%,-,95.90%,"2,988",0,12,"3,000",996,"3,996","1,244",654
+RWW,NHS England North West ,Warrington And Halton Teaching Hospitals NHS Foundation Trust,"7,352",0,"3,032","10,384","3,839",0,"3,010","6,849","3,513",0,22,"3,535",66.00%,52.20%,-,99.30%,"1,809",0,0,"1,809",161,"1,970","1,379",909
+RY7,NHS England North West ,Wirral Community Health And Care NHS Foundation Trust,0,0,"3,798","3,798",0,0,"3,644","3,644",0,0,154,154,95.90%,-,-,95.90%,0,0,0,0,0,0,0,0
+RBL,NHS England North West ,Wirral University Teaching Hospital NHS Foundation Trust,"8,469",0,"3,128","11,597","4,087",0,"3,044","7,131","4,382",0,84,"4,466",61.50%,48.30%,-,97.30%,"2,386",0,0,"2,386","1,971","4,357","1,160",626
+RRF,NHS England North West ,"Wrightington, Wigan And Leigh Teaching Hospitals NHS Foundation Trust","6,876",0,"6,628","13,504","3,956",0,"6,584","10,540","2,920",0,44,"2,964",78.10%,57.50%,-,99.30%,"2,514",0,0,"2,514",385,"2,899",958,407
+RTK,NHS England South East ,Ashford And St Peter's Hospitals NHS Foundation Trust,"7,809",0,"2,837","10,646","4,435",0,"2,809","7,244","3,374",0,28,"3,402",68.00%,56.80%,-,99.00%,"2,554",0,0,"2,554",430,"2,984",880,311
+NTV0B,NHS England South East ,Ashford Walk-In-Centre,0,0,"2,545","2,545",0,0,"2,499","2,499",0,0,46,46,98.20%,-,-,98.20%,0,0,0,0,0,0,0,0
+RWX,NHS England South East ,Berkshire Healthcare NHS Foundation Trust,0,0,"1,461","1,461",0,0,"1,447","1,447",0,0,14,14,99.00%,-,-,99.00%,0,0,31,31,0,31,0,0
+Y02676,NHS England South East ,Brighton Station Health Centre,0,0,"1,827","1,827",0,0,"1,827","1,827",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+RXQ,NHS England South East ,Buckinghamshire Healthcare NHS Trust,"9,559","1,221","3,114","13,894","6,568","1,221","3,085","10,874","2,991",0,29,"3,020",78.30%,68.70%,100.00%,99.10%,"3,565",880,0,"4,445","1,200","5,645",508,249
+RN7,NHS England South East ,Dartford And Gravesham NHS Trust,"12,229",0,"4,068","16,297","9,263",0,"4,064","13,327","2,966",0,4,"2,970",81.80%,75.70%,-,99.90%,"4,024",0,0,"4,024",329,"4,353","1,064",497
+RVV,NHS England South East ,East Kent Hospitals University NHS Foundation Trust,"15,073",0,"13,260","28,333","8,634",0,"12,424","21,058","6,439",0,836,"7,275",74.30%,57.30%,-,93.70%,"3,144",0,533,"3,677",546,"4,223","1,659","1,037"
+RXC,NHS England South East ,East Sussex Healthcare NHS Trust,"11,697",0,"3,831","15,528","8,186",0,"3,801","11,987","3,511",0,30,"3,541",77.20%,70.00%,-,99.20%,"3,011",0,0,"3,011",464,"3,475",270,58
+AQM01,NHS England South East ,Faversham Medical Practice Miu,0,0,"3,203","3,203",0,0,"3,203","3,203",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+NDJ,NHS England South East ,First Community Health And Care Cic,0,0,"2,366","2,366",0,0,"2,341","2,341",0,0,25,25,98.90%,-,-,98.90%,0,0,0,0,0,0,0,0
+RDU,NHS England South East ,Frimley Health NHS Foundation Trust,"23,737","1,013","11,602","36,352","16,182","1,012","11,359","28,553","7,555",1,243,"7,799",78.50%,68.20%,99.90%,97.90%,"6,966",0,0,"6,966",140,"7,106","1,703",637
+RW1,NHS England South East ,Hampshire And Isle Of Wight Healthcare NHS Foundation Trust,0,0,"3,154","3,154",0,0,"3,132","3,132",0,0,22,22,99.30%,-,-,99.30%,0,0,1,1,141,142,0,0
+RN5,NHS England South East ,Hampshire Hospitals NHS Foundation Trust,"10,649",64,"4,614","15,327","5,398",64,"4,174","9,636","5,251",0,440,"5,691",62.90%,50.70%,100.00%,90.50%,"3,995",7,61,"4,063","1,028","5,091",139,13
+NVE43,NHS England South East ,Hastings GP Led Health Centre,0,0,"1,070","1,070",0,0,"1,070","1,070",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+DJV01,NHS England South East ,Herne Bay Health Care Ltd,0,0,"2,623","2,623",0,0,"2,623","2,623",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+R1F,NHS England South East ,Isle Of Wight NHS Trust,"4,259",252,"1,677","6,188","2,926",252,"1,587","4,765","1,333",0,90,"1,423",77.00%,68.70%,100.00%,94.60%,"1,439",0,0,"1,439",101,"1,540",466,196
+RYY,NHS England South East ,Kent Community Health NHS Foundation Trust,0,0,"7,132","7,132",0,0,"7,070","7,070",0,0,62,62,99.10%,-,-,99.10%,0,0,0,0,0,0,0,0
+RWF,NHS England South East ,Maidstone And Tunbridge Wells NHS Trust,"20,938",0,"2,153","23,091","16,388",0,"2,145","18,533","4,550",0,8,"4,558",80.30%,78.30%,-,99.60%,"2,314",0,0,"2,314",795,"3,109","1,037",131
+RPA,NHS England South East ,Medway NHS Foundation Trust,"10,156",0,"7,562","17,718","7,063",0,"6,471","13,534","3,093",0,"1,091","4,184",76.40%,69.50%,-,85.60%,"1,758",0,0,"1,758",471,"2,229","1,006",671
+RNU,NHS England South East ,Oxford Health NHS Foundation Trust,0,0,"4,189","4,189",0,0,"4,005","4,005",0,0,184,184,95.60%,-,-,95.60%,0,0,0,0,0,0,0,0
+RTH,NHS England South East ,Oxford University Hospitals NHS Foundation Trust,"14,210","1,624","3,629","19,463","10,414","1,624","3,574","15,612","3,796",0,55,"3,851",80.20%,73.30%,100.00%,98.50%,"5,429",94,27,"5,550","4,413","9,963",346,5
+AQN04,NHS England South East ,Phl Lymington Utc,0,0,"3,122","3,122",0,0,"3,092","3,092",0,0,30,30,99.00%,-,-,99.00%,0,0,0,0,0,0,0,0
+RHU,NHS England South East ,Portsmouth Hospitals University NHS Trust,"13,021","1,229","4,373","18,623","8,698","1,213","4,354","14,265","4,323",16,19,"4,358",76.60%,66.80%,98.70%,99.60%,"3,287",0,0,"3,287","2,558","5,845","1,855",901
+NTP11,NHS England South East ,Practice Plus Group Hospital - Southampton,0,0,"5,451","5,451",0,0,"5,374","5,374",0,0,77,77,98.60%,-,-,98.60%,0,0,0,0,0,0,0,0
+NTPAD,NHS England South East ,Practice Plus Group Surgical Centre - St Marys Portsmouth,0,0,"5,735","5,735",0,0,"5,611","5,611",0,0,124,124,97.80%,-,-,97.80%,0,0,0,0,0,0,0,0
+RPC,NHS England South East ,Queen Victoria Hospital NHS Foundation Trust,0,0,"1,372","1,372",0,0,"1,354","1,354",0,0,18,18,98.70%,-,-,98.70%,0,0,2,2,529,531,0,0
+RHW,NHS England South East ,Royal Berkshire NHS Foundation Trust,"12,841","2,704","3,067","18,612","8,579","2,673","3,067","14,319","4,262",31,0,"4,293",76.90%,66.80%,98.90%,100.00%,"2,257",0,0,"2,257",373,"2,630",420,28
+RA2,NHS England South East ,Royal Surrey NHS Foundation Trust,"8,078",0,"2,271","10,349","5,478",0,"2,270","7,748","2,600",0,1,"2,601",74.90%,67.80%,-,100.00%,"2,363",0,0,"2,363","1,145","3,508",525,15
+RTP,NHS England South East ,Surrey And Sussex Healthcare NHS Trust,"10,583",0,0,"10,583","5,805",0,0,"5,805","4,778",0,0,"4,778",54.90%,54.90%,-,-,"2,935",0,0,"2,935",988,"3,923","1,321",724
+RDR,NHS England South East ,Sussex Community NHS Foundation Trust,0,0,"11,899","11,899",0,0,"11,661","11,661",0,0,238,238,98.00%,-,-,98.00%,0,0,0,0,0,0,0,0
+RHM,NHS England South East ,University Hospital Southampton NHS Foundation Trust,"12,105","1,200",0,"13,305","8,504","1,140",0,"9,644","3,601",60,0,"3,661",72.50%,70.30%,95.00%,-,"3,903",13,0,"3,916","1,600","5,516",466,11
+RYR,NHS England South East ,University Hospitals Sussex NHS Foundation Trust,"29,564","1,688","2,335","33,587","17,922","1,653","2,098","21,673","11,642",35,237,"11,914",64.50%,60.60%,97.90%,89.90%,"8,706",31,147,"8,884","1,877","10,761","1,839","1,005"
+ACH01,NHS England South East ,Whitstable Medical Practice,0,0,"5,137","5,137",0,0,"5,137","5,137",0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+NTV0W,NHS England South East ,Woking Walk In Centre,0,0,"2,883","2,883",0,0,"2,855","2,855",0,0,28,28,99.00%,-,-,99.00%,0,0,0,0,0,0,0,0
+NQT1I,NHS England South West ,Chippenham Community Hospital,0,0,"1,657","1,657",0,0,"1,632","1,632",0,0,25,25,98.50%,-,-,98.50%,0,0,0,0,0,0,0,0
+RJ8,NHS England South West ,Cornwall Partnership NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,10,10,92,102,0,0
+RBD,NHS England South West ,Dorset County Hospital NHS Foundation Trust,"5,057",0,"4,032","9,089","3,156",0,"4,027","7,183","1,901",0,5,"1,906",79.00%,62.40%,-,99.90%,"1,972",0,0,"1,972",538,"2,510",301,92
+RDY,NHS England South West ,Dorset Healthcare University NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,0,0,0,0,1,1,0,0
+RTQ,NHS England South West ,Gloucestershire Health And Care NHS Foundation Trust,0,0,"8,390","8,390",0,0,"8,167","8,167",0,0,223,223,97.30%,-,-,97.30%,0,0,1,1,33,34,0,0
+RTE,NHS England South West ,Gloucestershire Hospitals NHS Foundation Trust,"14,347",0,0,"14,347","9,264",0,0,"9,264","5,083",0,0,"5,083",64.60%,64.60%,-,-,"2,980",0,0,"2,980","3,018","5,998",771,489
+RN3,NHS England South West ,Great Western Hospitals NHS Foundation Trust,"6,241",0,"5,981","12,222","2,991",0,"5,428","8,419","3,250",0,553,"3,803",68.90%,47.90%,-,90.80%,"2,742",0,0,"2,742","1,297","4,039",975,436
+RVJ,NHS England South West ,North Bristol NHS Trust,"9,545",0,0,"9,545","6,159",0,0,"6,159","3,386",0,0,"3,386",64.50%,64.50%,-,-,"3,204",0,0,"3,204","2,469","5,673",939,576
+L83087,NHS England South West ,Okehampton Medical Centre,0,0,86,86,0,0,86,86,0,0,0,0,100.00%,-,-,100.00%,0,0,0,0,0,0,0,0
+NQT5H,NHS England South West ,Paulton Memorial Hospital,0,0,"1,400","1,400",0,0,"1,391","1,391",0,0,9,9,99.40%,-,-,99.40%,0,0,0,0,0,0,0,0
+REF,NHS England South West ,Royal Cornwall Hospitals NHS Trust,"6,938",0,"12,626","19,564","3,547",0,"12,025","15,572","3,391",0,601,"3,992",79.60%,51.10%,-,95.20%,"2,341",0,42,"2,383","1,487","3,870",985,467
+RH8,NHS England South West ,Royal Devon University Healthcare NHS Foundation Trust,"15,146",0,"4,430","19,576","9,366",0,"4,420","13,786","5,780",0,10,"5,790",70.40%,61.80%,-,99.80%,"3,600",0,0,"3,600","1,989","5,589","1,032",172
+RD1,NHS England South West ,Royal United Hospitals Bath NHS Foundation Trust,"9,444",0,0,"9,444","5,916",0,0,"5,916","3,528",0,0,"3,528",62.60%,62.60%,-,-,"3,187",0,11,"3,198","2,120","5,318","1,028",85
+RNZ,NHS England South West ,Salisbury NHS Foundation Trust,"5,086",377,"2,070","7,533","2,771",377,"2,070","5,218","2,315",0,0,"2,315",69.30%,54.50%,100.00%,100.00%,"1,353",0,0,"1,353","1,063","2,416",564,147
+NLX,NHS England South West ,Sirona Care & Health,0,0,"9,347","9,347",0,0,"9,027","9,027",0,0,320,320,96.60%,-,-,96.60%,0,0,0,0,0,0,0,0
+RH5,NHS England South West ,Somerset NHS Foundation Trust,"12,117",0,"10,428","22,545","6,310",0,"10,108","16,418","5,807",0,320,"6,127",72.80%,52.10%,-,96.90%,"2,642",0,0,"2,642","1,658","4,300",445,73
+RYF,NHS England South West ,South Western Ambulance Service NHS Foundation Trust,0,0,"2,191","2,191",0,0,"2,152","2,152",0,0,39,39,98.20%,-,-,98.20%,0,0,0,0,0,0,0,0
+AAH,NHS England South West ,Tetbury Hospital Trust Ltd,0,0,667,667,0,0,666,666,0,0,1,1,99.90%,-,-,99.90%,0,0,0,0,0,0,0,0
+RA9,NHS England South West ,Torbay And South Devon NHS Foundation Trust,"7,275",0,"3,473","10,748","3,688",0,"3,471","7,159","3,587",0,2,"3,589",66.60%,50.70%,-,99.90%,"2,182",0,0,"2,182","1,278","3,460",216,66
+G3P9C,NHS England South West ,Trowbridge Minor Injuries Unit,0,0,"1,340","1,340",0,0,"1,336","1,336",0,0,4,4,99.70%,-,-,99.70%,0,0,0,0,0,0,0,0
+RA7,NHS England South West ,University Hospitals Bristol And Weston NHS Foundation Trust,"16,839","2,625",0,"19,464","10,499","2,379",0,"12,878","6,340",246,0,"6,586",66.20%,62.30%,90.60%,-,"5,023",11,0,"5,034","1,609","6,643","1,727",529
+R0D,NHS England South West ,University Hospitals Dorset NHS Foundation Trust,"15,604",0,"4,194","19,798","9,207",0,"4,194","13,401","6,397",0,0,"6,397",67.70%,59.00%,-,100.00%,"4,177",1,0,"4,178","2,588","6,766","1,424",501
+RK9,NHS England South West ,University Hospitals Plymouth NHS Trust,"9,053",174,"8,349","17,576","3,390",160,"8,223","11,773","5,663",14,126,"5,803",67.00%,37.40%,92.00%,98.50%,"3,160",0,0,"3,160","1,916","5,076","1,045",352

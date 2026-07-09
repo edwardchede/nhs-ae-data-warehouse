@@ -1,0 +1,20 @@
+# Environment secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Data
+# data/raw/
+
+#Visual Studio Code
+.vscode
